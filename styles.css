@@ -1,0 +1,61 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Sixtyfour Convergence", sans-serif;
+}
+header .list {
+  display: flex;
+  justify-content: space-between;
+  gap: 2em;
+  padding-top: 10px;
+}
+
+img {
+  height: 400px;
+}
+
+h3 {
+  font-family: "Audiowide", sans-serif;
+  font-size: x-large;
+  text-decoration: underline;
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  background-image: url("about-background-image.jpg");
+}
+
+h2 {
+  font-family: "Rammetto One", serif;
+  color: Red;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  background-color: burlywood;
+  font-family: "Audiowide", sans-serif;
+  border-radius: 50px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 2px;
+}
+.box img {
+  width: 60px;
+  height: 50px;
+}
+
+p {
+  font-family: "Audiowide", sans-serif;
+  color: navy;
+  font-weight: bolder;
+  font-size: large;
+}
+
+/*# sourceMappingURL=styles.css.map */
