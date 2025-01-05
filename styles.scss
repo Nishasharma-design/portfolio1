@@ -33,7 +33,7 @@ h2 {
     color: Red;
 }
 
-    .box {
+    .box1 {
         display: flex;
         justify-content: space-between;
         border: 1px solid black;
@@ -54,6 +54,57 @@ p {
     color: navy;
     font-weight: bolder;
     font-size: large;
+}
+
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: burlywood;
+    font-family: "Audiowide", sans-serif;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 5px 10px 2px;
+    
+    img {
+        width: 60px;
+        height: 50px;
+    }
+}
+
+.box3 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: burlywood;
+    font-family: "Audiowide", sans-serif;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 5px 10px 2px;
+    
+    img {
+        width: 60px;
+        height: 50px;
+    }
+}
+
+.box4 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: burlywood;
+    font-family: "Audiowide", sans-serif;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 5px 10px 2px;
+    
+    img {
+        width: 60px;
+        height: 50px;
+    }
 }
 
 
